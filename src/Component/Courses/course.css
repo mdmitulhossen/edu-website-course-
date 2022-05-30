@@ -1,0 +1,17 @@
+.courses {
+    display: flex;
+    margin-top: 10px;
+    border-top: 1px solid red;
+}
+.course-component {
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    padding: 5px;
+    border-right: 1px solid red;
+}
+
+.course-img {
+    width: 100px;
+   height: 100px;
+}

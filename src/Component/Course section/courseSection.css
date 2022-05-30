@@ -1,0 +1,18 @@
+.course-img {
+    width: 100px;
+   height: 100px;
+}
+.courseSection {
+    width: 25%;
+    padding: 5px;
+    margin-bottom: 10px;
+    float: left;
+}
+.courseSection:first-child {
+    border: none;
+}
+.course-img {
+    width: 130px;
+   height: 150px;
+   text-align: center;
+}
